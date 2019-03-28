@@ -1,0 +1,215 @@
+body{
+    background-image: url(../images/prism.png);
+    
+
+    
+
+}
+h1, h2{
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+}
+p, #field {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+}
+
+h2{
+    color:#4aaaa5;
+}
+
+
+.HeaderBar{
+    width:100%;
+    background: #ffffff;
+    height:75px;
+    top:0;
+}
+
+.Header{
+    
+    width: 960px;
+    background-color: #ffffff;
+    text-align:right;
+    height:75px;
+    vertical-align:middle;
+    line-height: 75px;
+    margin: 0 auto;
+    border: 2px;
+    border-color:#cccccc;
+    
+
+
+    
+}
+
+.Footer{
+    position:fixed;
+    bottom:5px;
+    text-align: center;
+    width: 100%;
+    Height: 45px;
+    padding: 10px 10px 3px 10px;
+    vertical-align:bottom;
+    line-height: 45px;
+    background-color: #666666;
+
+}
+
+#Copy{
+    color: #ffffff
+}
+
+#bar{
+    
+    position:absolute;
+    background-color: #4aaaa5;
+    height:10px;
+    width:100%;
+    top:0;
+}
+
+#HeaderBox{
+    position: absolute;
+    background-color: #4aaaa5;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 5px;
+    float: left;
+    color: white;
+    width:250px;
+    height:45px;
+    padding: 15px 15px 15px 15px;
+}
+
+.Body {
+    width: 920px;
+    padding: 20px;
+    height:100%;
+    border:20px;
+    background: #ffffff;
+    margin: 20px auto;
+    border: 2px;
+    border-color: #cccccc;
+    
+    overflow:auto;
+
+}
+#bio-image{
+    float:left;
+    margin: 0 20px 20px 20px;
+    width: 200px;
+    height:250px;
+}
+
+textarea{
+    width:920px;
+
+}
+input{
+    width:920px;
+}
+#Button{
+    width:auto;
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+
+#Tile1{
+    float: left;
+    position: relative;
+    height: 300px;
+    width: 300px;
+    background-image: url(../images/music-world.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    margin: 20px;
+    
+}
+
+
+#Tile2{
+    float: left;
+    position: relative;
+    height: 300px;
+    width: 300px;
+    background-image: url(../images/red_crystal.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    margin:20px;
+}
+
+#Tile3{
+    float: left;
+    position: relative;
+    height: 300px;
+    width: 300px;
+    background-image: url(../images/word-guess.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    margin:20px;
+}
+
+#Tile4{
+    float: left;
+    position: relative;
+    height: 300px;
+    width: 300px;
+    background-image: url(../images/train.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    margin:20px;
+}
+
+#Tile5{
+    float: left;
+    position: relative;
+    height: 300px;
+    width: 300px;
+    background-image: url(../images/loading.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    margin:20px;
+}
+
+#Button{
+    padding:10px;
+    font-size: 20px;
+    color:white;
+    background-color:#4aaaa5;
+}
+
+#Button:hover{
+    background-color: #234c4a;
+}
+  
+#description {
+    line-height: 120%;
+    position: absolute;
+    bottom: 20px;
+    width: 280px;
+    padding: 10px;
+    text-align: center;
+    background: #4aaaa5;
+}
+
+#field{
+    font-size:15px;
+}
+
+
+
+

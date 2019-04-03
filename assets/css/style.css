@@ -185,6 +185,18 @@ hr {
     margin:20px;
 }
 
+#Tile6{
+    float: left;
+    position: relative;
+    height: 300px;
+    width: 300px;
+    background-image: url(../images/siri.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    margin:20px;
+}
+
 #Button{
     padding:10px;
     font-size: 20px;
